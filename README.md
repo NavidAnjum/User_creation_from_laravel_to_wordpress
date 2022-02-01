@@ -5,7 +5,7 @@
 
 laravel To Wordpress is a web application by which you can create user for wordpress from laravel to wordpresse.
 
-## Additioanl Requirement Sponsors
+## Additioanl Requirement
 Please Install [WordPress Plugin](https://github.com/NavidAnjum/Plugin_User_Creation_From_laravel.git) and activate first.
 
 ## Learning Laravel
